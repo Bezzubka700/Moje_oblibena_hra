@@ -13,3 +13,11 @@
 | **Assalut** | Útok v první linii | Skvělá mobilita |
 | **Engineer** | Opravy vozidel | Ničení nepřátelských vozidel |
 | **Support** | Zásobování municí | Udržeí týmu v akci |
+
+### Ukázka taktického kódu
+```python
+def hrac_přežije(stamina, ammunition):
+    if stamina > 50 and ammunition > 0:
+        return "Úspěšný útok!"
+    return "Taktický ústup!"
+```
