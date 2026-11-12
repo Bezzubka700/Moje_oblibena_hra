@@ -28,4 +28,4 @@ def hrac_přežije(stamina, ammunition):
  - [ ] Najít vozidlo na transport na bojiště
 
 ## Odkazy
-Více info najdeš na [https://www.ea.com](oficiálním webu EA)
+Více info najdeš na [oficiálním webu EA](https://www.ea.com)
