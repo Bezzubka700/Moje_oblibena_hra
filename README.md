@@ -30,3 +30,5 @@ def hrac_přežije(stamina, ammunition):
 ## Odkazy
 Více info najdeš na [oficiálním webu EA](https://www.ea.com)
 Můžeš také sledovat novinky na [portálu o hrách](https://www.zing.cz)
+
+![bojiště](img/bf6-obr.png)
