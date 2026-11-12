@@ -26,3 +26,6 @@ def hrac_přežije(stamina, ammunition):
  - [x] Munice doplněna
  - [x] Sehnat svojí squadu
  - [ ] Najít vozidlo na transport na bojiště
+
+## Odkazy
+Více info najdeš na [https://www.ea.com](oficiálním webu EA)
