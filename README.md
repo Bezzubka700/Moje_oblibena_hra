@@ -7,3 +7,9 @@
 2. Používej zničené prostředí jako úkryt před nepřátelskou střelbou
 3. Důkladně si vybírej své cíle
 
+## Výbava
+| Třída | Hlavní role | Výhoda |
+| :--- | :--- | :--- |
+| **Assalut** | Útok v první linii | Skvělá mobilita |
+| **Engineer** | Opravy vozidel | Ničení nepřátelských vozidel |
+| **Support** | Zásobování municí | Udržeí týmu v akci |
