@@ -25,4 +25,4 @@ def hrac_přežije(stamina, ammunition):
 ### Stav příprav na boj
  - [x] Munice doplněna
  - [x] Sehnat svojí squadu
- - [] Najít vozidlo na transport na bojiště
+ - [ ] Najít vozidlo na transport na bojiště
