@@ -21,3 +21,8 @@ def hrac_přežije(stamina, ammunition):
         return "Úspěšný útok!"
     return "Taktický ústup!"
 ```
+
+### Stav příprav na boj
+[x] Munice doplněna
+[x] Sehnat svojí squadu
+[] Najít vozidlo na transport na bojiště
